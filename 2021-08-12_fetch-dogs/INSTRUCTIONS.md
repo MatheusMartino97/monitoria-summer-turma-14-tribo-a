@@ -1,0 +1,1 @@
+O desafio fetch-dogs será, a paritr do código da aula, adiconar um input e um botão que, quando clicado, faz a página retornar uma foto aleatória de um cachorro da raça que foi colocada no input.
