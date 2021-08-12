@@ -1,4 +1,4 @@
-# Instruções de resolução dos desafios
+# Instruções para resolução dos desafios
 
 Olá. Esse é o repositório em que os códigos das monitorias em grupo da Turma 14 - Tribo A serão guradados.
 
