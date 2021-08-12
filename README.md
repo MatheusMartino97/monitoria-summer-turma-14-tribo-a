@@ -7,4 +7,5 @@ Quando for realizar algum desafio, crie uma branch, a partir da branch main, com
 ### Atenção
 
 Depois de terminar o desafio não faça pull request para a branch main.
+
 As instruções de cada desafio estarão no arquivo INSTRUCTIONS.md de cada aula.
